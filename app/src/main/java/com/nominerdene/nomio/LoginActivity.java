@@ -87,7 +87,6 @@ public class LoginActivity extends AppCompatActivity {
             passwordEditText.setError("Нууц хэтэрхий богино байна.");
             return false;
         }
-
         return true;
     }
 }
