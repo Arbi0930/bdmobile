@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707077533118",
+    "project_id": "nomio-cc3f2",
+    "storage_bucket": "nomio-cc3f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707077533118:android:b6c2fcba8cdbbd4cd95def",
+        "android_client_info": {
+          "package_name": "com.nominerdene.nomio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEF1UmUP1Y19xTo49v43JYUaWFzl_Jsmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
